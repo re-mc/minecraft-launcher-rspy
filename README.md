@@ -16,8 +16,8 @@ If you want to sign in to your minecraft account, or choose a different username
 !You Need Chrome (or firefox) For The Launcher To Work!
 
 ## Known bugs
-After instances reload, they will no longer do anything when clicked, you have to restart the launcher.
-Windows will not automatically close, you must close them yourself after you have finished using them.
-You need to have either chrome (or chromium) or firefox installed for it to load, I would bundle nwjs with the launcher, but it has issues.
-You also need to have internet when openning the launcher, after it has opened, you don't need internet.
-Two windows quickly popup and dissapear when using the hidden console version, there's not really much I can do about that.
+* After instances reload, they will no longer do anything when clicked, you have to restart the launcher.
+* Windows will not automatically close, you must close them yourself after you have finished using them.
+* You need to have either chrome (or chromium) or firefox installed for it to load, I would bundle nwjs with the launcher, but it has issues.
+* You also need to have internet when openning the launcher, after it has opened, you don't need internet.
+* Two windows quickly popup and dissapear when using the hidden console version, there's not really much I can do about that.
