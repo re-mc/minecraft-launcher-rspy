@@ -9,7 +9,7 @@ minecraft-installer.exe bundles python with it, and lets you choose the install 
 As of v1.0.0, after install has finished, the launcher will be in bin/python-3.11.7-mc/
 the default instance is located in bin/python-3.11.7-mc/.minecraft
 
-Make sure to set the minecraft laoder (beside the 'Create Instance' button) when creating an instance!
+Make sure to set the minecraft loader (beside the 'Create Instance' button) when creating an instance!
 
 If you want to sign in to your minecraft account, or choose a different username, click on 'Set Account'.
 
