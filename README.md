@@ -1,7 +1,7 @@
 # minecraft-launcher-rspy
 Minecraft launcher written in rust and python
 
-The each release has 3 files, minecraft-installer.exe, minecraft-launcher.exe, and minecraft-launcher-console.exe
+Each release has 3 files, minecraft-installer.exe, minecraft-launcher.exe, and minecraft-launcher-console.exe
 It is recommended to use minecraft-installer.exe, it should work on any windows machine with chrome installed.
 Both minecraft-launcher.exe and minecraft-launcher-console.exe are smaller files, but require you to have python 3.11 installed.
 minecraft-installer.exe bundles python with it, and lets you choose the install path, and which version to install (console shown / console hidden)
